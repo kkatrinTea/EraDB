@@ -1,5 +1,5 @@
-### Database for the airline ERA
-#### The database's functionality includes:
+## Database for the airline ERA
+### The database's functionality includes:
 - assistance in scheduling flights
 - assigning employees to flights
 - checking intersections
